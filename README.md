@@ -7,6 +7,6 @@
 - **[团队文化和文化构建](https://github.com/xiaoyuge/Admin-Notes/blob/main/%E5%9B%A2%E9%98%9F%E6%96%87%E5%8C%96%E5%92%8C%E6%96%87%E5%8C%96%E6%9E%84%E5%BB%BA.md)**
 - **[项目管理](https://github.com/xiaoyuge/Admin-Notes/blob/main/%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86.md)**
 - **[研发管理体系构建之道法术器势](https://github.com/xiaoyuge/Admin-Notes/blob/main/%E7%A0%94%E5%8F%91%E7%AE%A1%E7%90%86%E4%BD%93%E7%B3%BB%E6%9E%84%E5%BB%BA%E4%B9%8B%E9%81%93%E6%B3%95%E6%9C%AF%E5%99%A8%E5%8A%BF.md)**
-
+- **[关于产研团队管理的那些事儿]()**
 
 
