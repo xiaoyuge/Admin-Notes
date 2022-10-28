@@ -5,8 +5,7 @@
 - 团队规模从几十人到上百人
 - 带过外包，也管过外包项目
 
-
-
+记录和分享一些管理的心得
 
 # **目录**
 - **[技术管理和领导力](https://github.com/xiaoyuge/Admin-Notes/blob/main/%E6%8A%80%E6%9C%AF%E7%AE%A1%E7%90%86%E5%92%8C%E9%A2%86%E5%AF%BC%E5%8A%9B.md)**
