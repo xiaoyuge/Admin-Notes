@@ -13,6 +13,7 @@
 
 # **目录**
 - **[技术管理和领导力](https://github.com/xiaoyuge/Admin-Notes/blob/main/%E6%8A%80%E6%9C%AF%E7%AE%A1%E7%90%86%E5%92%8C%E9%A2%86%E5%AF%BC%E5%8A%9B.md)**
+- **[公司不同发展阶段的技术管理思考]()**
 - **[大规模团队管理](https://github.com/xiaoyuge/Admin-Notes/blob/main/%E5%A4%A7%E8%A7%84%E6%A8%A1%E5%9B%A2%E9%98%9F%E7%AE%A1%E7%90%86.md)**
 - **[管理者空降](https://github.com/xiaoyuge/Admin-Notes/blob/main/%E7%AE%A1%E7%90%86%E8%80%85%E7%A9%BA%E9%99%8D.md)**
 - **[管理者风格](https://github.com/xiaoyuge/Admin-Notes/blob/main/%E7%AE%A1%E7%90%86%E8%80%85%E9%A3%8E%E6%A0%BC.md)**
