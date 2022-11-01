@@ -20,7 +20,7 @@
 - **[大规模团队如何管理](https://github.com/xiaoyuge/Admin-Notes/blob/main/%E5%A4%A7%E8%A7%84%E6%A8%A1%E5%9B%A2%E9%98%9F%E7%AE%A1%E7%90%86.md)**
 - **[团队文化和文化构建](https://github.com/xiaoyuge/Admin-Notes/blob/main/%E5%9B%A2%E9%98%9F%E6%96%87%E5%8C%96%E5%92%8C%E6%96%87%E5%8C%96%E6%9E%84%E5%BB%BA.md)**
 - **[团队管理最重要的三个动作](https://github.com/xiaoyuge/Admin-Notes/blob/main/%E5%9B%A2%E9%98%9F%E7%AE%A1%E7%90%86%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E4%B8%89%E4%B8%AA%E5%8A%A8%E4%BD%9C.md)**
-- **[组织架构设计](https://github.com/xiaoyuge/Admin-Notes/blob/main/%E7%BB%84%E7%BB%87%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1.md)**
+- **[产研团队组织架构设计]()**
 - **[如何打造高效沟通的团队](https://github.com/xiaoyuge/Admin-Notes/blob/main/%E5%A6%82%E4%BD%95%E6%89%93%E9%80%A0%E9%AB%98%E6%95%88%E6%B2%9F%E9%80%9A%E7%9A%84%E5%9B%A2%E9%98%9F.md)**
 - **[管理者空降](https://github.com/xiaoyuge/Admin-Notes/blob/main/%E7%AE%A1%E7%90%86%E8%80%85%E7%A9%BA%E9%99%8D.md)**
 - **[管理者风格](https://github.com/xiaoyuge/Admin-Notes/blob/main/%E7%AE%A1%E7%90%86%E8%80%85%E9%A3%8E%E6%A0%BC.md)**
