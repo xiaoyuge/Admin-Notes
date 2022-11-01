@@ -1,7 +1,7 @@
 # **说明**
 我的个人职业发展路线，最早是从一线Java开发做起，写过大概六七年的代码，然后开始转做技术管理，一路从技术经理到技术总监再到技术VP
 
-经历过的这三种技术管理角色，虽然都是做技术管理的工作，但所承担的责任和所需要具备的能力模型是有差异的，具体可见[技术管理能力模型](https://github.com/xiaoyuge/Admin-Notes/blob/main/%E6%8A%80%E6%9C%AF%E7%AE%A1%E7%90%86%E5%92%8C%E9%A2%86%E5%AF%BC%E5%8A%9B.md)里的思考和总结
+经历过的这三种技术管理角色，虽然都是做技术管理的工作，但所承担的责任和所需要具备的能力模型是有差异的，具体可见[技术管理能力模型](https://github.com/xiaoyuge/Admin-Notes/blob/main/%E6%8A%80%E6%9C%AF%E7%AE%A1%E7%90%86%E8%83%BD%E5%8A%9B%E6%A8%A1%E5%9E%8B.md)里的思考和总结
 
 在多年的管理生涯里，管过形形色色的人，也管过各种类型不同的团队，比如
 - 带过服务端技术团队，也带过前后端技术闭环团队，最近还带过产研闭环团队
@@ -12,7 +12,7 @@
 在这里，我会持续记录和分享一些自己在管理方面的思考和心得，希望通过管理方法论的沉淀，能够更加理解管理的本质，最大化发挥管理的价值。
 
 # **目录**
-- **[技术管理能力模型](https://github.com/xiaoyuge/Admin-Notes/blob/main/%E6%8A%80%E6%9C%AF%E7%AE%A1%E7%90%86%E5%92%8C%E9%A2%86%E5%AF%BC%E5%8A%9B.md)**
+- **[技术管理能力模型](https://github.com/xiaoyuge/Admin-Notes/blob/main/%E6%8A%80%E6%9C%AF%E7%AE%A1%E7%90%86%E8%83%BD%E5%8A%9B%E6%A8%A1%E5%9E%8B.md)**
 - **[技术管理者的技术能力](https://github.com/xiaoyuge/Admin-Notes/blob/main/%E6%8A%80%E6%9C%AF%E7%AE%A1%E7%90%86%E8%80%85%E7%9A%84%E6%8A%80%E6%9C%AF%E8%83%BD%E5%8A%9B.md)**
 - **[技术管理者做技术选型时如何思考](https://github.com/xiaoyuge/Admin-Notes/blob/main/%E6%8A%80%E6%9C%AF%E7%AE%A1%E7%90%86%E8%80%85%E5%81%9A%E6%8A%80%E6%9C%AF%E9%80%89%E5%9E%8B%E6%97%B6%E5%A6%82%E4%BD%95%E6%80%9D%E8%80%83.md)**
 - **[公司不同发展阶段的技术管理思考](https://github.com/xiaoyuge/Admin-Notes/blob/main/%E5%85%AC%E5%8F%B8%E4%B8%8D%E5%90%8C%E5%8F%91%E5%B1%95%E9%98%B6%E6%AE%B5%E7%9A%84%E6%8A%80%E6%9C%AF%E7%AE%A1%E7%90%86%E6%80%9D%E8%80%83.md)**
