@@ -16,6 +16,8 @@
 
 # **目录**
 
+- **[我的管理成长之路](https://github.com/xiaoyuge/Admin-Notes/blob/main/%E6%88%91%E7%9A%84%E7%AE%A1%E7%90%86%E6%88%90%E9%95%BF%E4%B9%8B%E8%B7%AF.md)**
+
 - **[技术管理能力模型](https://github.com/xiaoyuge/Admin-Notes/blob/main/%E6%8A%80%E6%9C%AF%E7%AE%A1%E7%90%86%E8%83%BD%E5%8A%9B%E6%A8%A1%E5%9E%8B.md)**
 
 - **[技术管理者的技术能力](https://github.com/xiaoyuge/Admin-Notes/blob/main/%E6%8A%80%E6%9C%AF%E7%AE%A1%E7%90%86%E8%80%85%E7%9A%84%E6%8A%80%E6%9C%AF%E8%83%BD%E5%8A%9B.md)**
