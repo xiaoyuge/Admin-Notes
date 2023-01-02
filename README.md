@@ -52,4 +52,6 @@
 
 - **[谈一谈情绪管理](https://github.com/xiaoyuge/Admin-Notes/blob/main/%E8%B0%88%E4%B8%80%E8%B0%88%E6%83%85%E7%BB%AA%E7%AE%A1%E7%90%86.md)**
 
+- **[下属的态度和能力哪个更重要](https://github.com/xiaoyuge/Admin-Notes/blob/main/%E4%B8%8B%E5%B1%9E%E7%9A%84%E6%80%81%E5%BA%A6%E5%92%8C%E8%83%BD%E5%8A%9B%E5%93%AA%E4%B8%AA%E6%9B%B4%E9%87%8D%E8%A6%81.md)**
+
 - **[研发管理体系构建之道法术器势](https://github.com/xiaoyuge/Admin-Notes/blob/main/%E7%A0%94%E5%8F%91%E7%AE%A1%E7%90%86%E4%BD%93%E7%B3%BB%E6%9E%84%E5%BB%BA%E4%B9%8B%E9%81%93%E6%B3%95%E6%9C%AF%E5%99%A8%E5%8A%BF.md)**
