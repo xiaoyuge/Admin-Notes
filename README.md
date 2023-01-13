@@ -44,6 +44,8 @@
 
 - **[管理者风格](https://github.com/xiaoyuge/Admin-Notes/blob/main/%E7%AE%A1%E7%90%86%E8%80%85%E9%A3%8E%E6%A0%BC.md)**
 
+- **[组织和管理创新](https://github.com/xiaoyuge/Admin-Notes/blob/main/%E7%BB%84%E7%BB%87%E5%92%8C%E7%AE%A1%E7%90%86%E5%88%9B%E6%96%B0.md)**
+
 - **[管理者如何建立全局思维](https://github.com/xiaoyuge/Admin-Notes/blob/main/%E7%AE%A1%E7%90%86%E8%80%85%E5%A6%82%E4%BD%95%E5%BB%BA%E7%AB%8B%E5%85%A8%E5%B1%80%E6%80%9D%E7%BB%B4.md)**
 
 - **[向上管理不是贬义词](https://github.com/xiaoyuge/Admin-Notes/blob/main/%E5%90%91%E4%B8%8A%E7%AE%A1%E7%90%86%E4%B8%8D%E6%98%AF%E8%B4%AC%E4%B9%89%E8%AF%8D.md)**
